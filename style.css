@@ -872,4 +872,9 @@ button{
         font-size: 20px;
     }
 }
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main-color: ...;
+    }
+}
 
