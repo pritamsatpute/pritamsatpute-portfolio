@@ -739,7 +739,7 @@ button{
     font-weight: 300;
 }
 .pp-body .general-info li a{
-    text-transform: lowercase;
+    text-transform: capitalize;
     color: var(--main-color);
 }
 
